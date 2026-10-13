@@ -1,6 +1,6 @@
 ### Hi, I'm Augusto
 
-Software engineer in Barcelona. Mostly backend, cloud and distributed systems, with a few years deep in Bitcoin and Lightning. These days I build AI-native products and spend a lot of time figuring out how to work well with coding agents without losing the engineering underneath.
+Software engineer in Argentina. Mostly backend, cloud and distributed systems, with a few years deep in Bitcoin and Lightning. These days I build AI-native products and spend a lot of time figuring out how to work well with coding agents without losing the engineering underneath.
 
 I write down what I find at [augustochirico.dev](https://augustochirico.dev).
 
